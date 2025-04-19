@@ -1,5 +1,5 @@
 <H3>Name : MALENI M</H3>
-<H3>Register no. 212223040110</H3>
+<H3>Register no: 212223040110</H3>
 <H3>Date : 24/03/2025</H3>
 <H3>Experiment No. 2 </H3>
 
